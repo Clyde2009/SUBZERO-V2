@@ -1,6 +1,6 @@
 /*╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺╺
     ⭐ＰＲＯＪＥＣＴ ＮＡＭＥ:
-    ＳＵＢＺＥＲＯ  ＭＤ ᐯ2
+    MATIPAISHE CLYDE  ＭＤ ᐯ2
     
     ⭐ＤＥＶＥＬＯＰＥＲ
      ＭＲ ＦＲＡＮＫ 
@@ -29,7 +29,7 @@ import moment from 'moment-timezone'
 import dotenv from 'dotenv'
 
 
-//---------❄️ＭＲ ＦＲＡＮＫ❄️-----------
+//---------❄️MATIPAISHE CLYDE❄️-----------
 
 //ＮＯＴＩＣＥ: If you want to avoid typing the number that will be bot into the console, I added from here then:
 //Only applies to option 2 (be a bot with an 8-digit text code)
@@ -38,14 +38,14 @@ global.botNumberCode = "" //Example: +263719647303
 global.confirmCode = "" 
 
 
-//--------❄️ＭＲ ＦＲＡＮＫ❄️----------
+//--------❄️ＭATIPAISHE CLYDE❄️----------
 
 
 //Change to false to use the Bot from the same number as the Bot.
 global.isBaileysFail = false
 
 
-global.pairingNumber = "" //put your bot number here
+global.pairingNumber = "263710369362" //put your bot number here
 global.mods = ['263719647303'] 
 global.prems = ['263719647303']
 global.allowed = ['263719647303']
@@ -60,7 +60,9 @@ global.itsrose = ['4b146102c4d500809da9d1ff']
 global.baileys = '@whiskeysockets/baileys'
 global.apis = 'https://deliriussapi-oficial.vercel.app'
 global.openai_key = 'sk-...OzYy' /* Get your ApiKey at this link: https://platform.openai.com/account/api-keys */
-global.openai_org_id = 'HITjoN7H8pCwoncEB9e3fSyW'
+global.openai_org_id = 'HITjoN7H8pCwoncEB9e3fSyW
+    
+    '
 //🧠❄--------------------------🧠❄️
 
 
